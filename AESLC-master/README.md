@@ -14,3 +14,5 @@ Please cite this paper if you use our data.
 ```
 
 Contact Rui Zhang for any question.
+
+## Note: We intend to use this data to perform contextual clustering for academic purposes.
